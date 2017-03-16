@@ -1,0 +1,12 @@
+Folder where all code related to the bulk analysis, all the methods that will be used during the development of this project.
+
+ts2cn stands for Time Series to Complex Network Epilepsy.
+
+The code will be organized in modules.
+
+- Time Series: Reading from file, methods of time series applied to time series, conversion of time series to complex networks
+- Complex Network: Reading from file, methods of complex networks applied to complex networks (measure extraction, clustering ...)
+- Pre-Processing: Pre-processing methods (Wavelet, Fourier, Filters, PCA, LDA, ICA, KDA ...)
+- Pos-Processing: Pos-processing methods (Statistical analysis, ...)
+- Plot: Methods related to plots
+- Save: Methods related to saving (logs and saving contexts, partial and final results)
